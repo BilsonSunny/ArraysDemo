@@ -3,7 +3,7 @@ package com.mycompany.arraysdemo;
 
 /**
  *
- * @author bilso
+ * @author bilso o
  */
 public class studentList {
     public static void main (String[] args){
